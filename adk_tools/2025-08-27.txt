@@ -1,0 +1,3 @@
+### Wednesday, August 27, 2025
+
+Today was a great day. I learned that AWS lambda supports maximum memory of 10 GB and maximum execution time of 15 minutes. I experienced it getting out of memory the task I was working on. Then I fixed the issue by optimizing the code & increasing the memory limit.
